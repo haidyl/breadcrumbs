@@ -1,0 +1,35 @@
+{
+  "name": "breadcrumbs",
+  "version": "1.0.0",
+  "description": "BreadCrumbs of all my works",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assests/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haidyl/breadcrumbs.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap",
+    "5",
+    "sass",
+    "works\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b5\u001b[3~\u001b[C\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bsass",
+    "myworks"
+  ],
+  "author": "Lydia Balasingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haidyl/breadcrumbs/issues"
+  },
+  "homepage": "https://github.com/haidyl/breadcrumbs#readme",
+  "devDependencies": {
+    "sass": "^1.58.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}
